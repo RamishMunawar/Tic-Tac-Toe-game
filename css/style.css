@@ -92,20 +92,22 @@ body{
     pointer-events: none;
 }
 
-   @media screen and (max-width:576px) {
-  h2{
-        font-size: 32px !important;
-       
+@media screen and (max-width:576px) {
+    h2{
+          font-size: 32px !important;
+         
+    }
   }
-}
-@media screen and (max-width:250px) {
-  h2{
-        font-size: 20px !important;
-       
+  @media screen and (max-width:250px) {
+    h2{
+          font-size: 20px !important;
+         
+    }
   }
-}
 
- @media screen and (max-width:576px) {
+
+
+  @media screen and (max-width:576px) {
     h1{
           font-size: 22px !important;
          
